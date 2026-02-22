@@ -4,7 +4,7 @@ import { MaterialIcons } from '@expo/vector-icons';
 import tarotCards from '../data/tarotCards.json';
 import { TarotCardImages } from '../../assets/cards/index';
 
-export default function Dashboard() {
+export default function Dashboard({ onNavigate }) {
     const [dailyCard, setDailyCard] = useState(null);
 
     useEffect(() => {
@@ -224,7 +224,7 @@ export default function Dashboard() {
             {/* Bottom Navigation */}
             <View className="absolute bottom-0 left-0 right-0 z-30 border-t border-slate-200 dark:border-slate-800 bg-background-light dark:bg-surface-dark pb-6">
                 <View className="flex-row h-16 items-center justify-around px-2">
-                    <TouchableOpacity className="flex-1 flex-col items-center justify-center gap-1">
+                    <TouchableOpacity onPress={() => onNavigate && onNavigate('Dashboard')} className="flex-1 flex-col items-center justify-center gap-1">
                         <MaterialIcons name="home" size={24} color="#5b13ec" className="text-primary dark:text-white" />
                         <Text className="text-[10px] font-medium text-primary dark:text-white">Home</Text>
                     </TouchableOpacity>
@@ -232,7 +232,7 @@ export default function Dashboard() {
                         <MaterialIcons name="menu-book" size={24} color="#64748b" />
                         <Text className="text-[10px] font-medium text-slate-500 dark:text-slate-400">Journal</Text>
                     </TouchableOpacity>
-                    <TouchableOpacity className="flex-1 flex-col items-center justify-center gap-1">
+                    <TouchableOpacity onPress={() => onNavigate && onNavigate('Deck')} className="flex-1 flex-col items-center justify-center gap-1">
                         <MaterialIcons name="style" size={24} color="#64748b" />
                         <Text className="text-[10px] font-medium text-slate-500 dark:text-slate-400">Deck</Text>
                     </TouchableOpacity>
