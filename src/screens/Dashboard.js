@@ -1,8 +1,16 @@
-import React from 'react';
-import { View, Text, TouchableOpacity, ScrollView, ImageBackground, SafeAreaView } from 'react-native';
+import React, { useState, useEffect } from 'react';
+import { View, Text, TouchableOpacity, ScrollView, ImageBackground, SafeAreaView, Image } from 'react-native';
 import { MaterialIcons } from '@expo/vector-icons';
+import tarotCards from '../data/tarotCards.json';
+import { TarotCardImages } from '../../assets/cards/index';
 
 export default function Dashboard() {
+    const [dailyCard, setDailyCard] = useState(null);
+
+    useEffect(() => {
+        const randomIndex = Math.floor(Math.random() * tarotCards.length);
+        setDailyCard(tarotCards[randomIndex]);
+    }, []);
     return (
         <SafeAreaView className="flex-1 bg-background-light dark:bg-background-dark">
             <ScrollView className="flex-1" contentContainerStyle={{ paddingBottom: 100 }}>
@@ -43,20 +51,26 @@ export default function Dashboard() {
 
                         <View className="relative z-10 flex-col gap-6 p-6">
                             <View className="flex-row justify-between items-start">
-                                <View className="flex-col gap-1 flex-1">
+                                <View className="flex-col gap-1 flex-1 pr-4">
                                     <View className="rounded-full bg-primary/20 px-2.5 py-0.5 border border-primary/30 w-fit self-start">
                                         <Text className="text-xs font-medium text-primary-light">Daily Ritual</Text>
                                     </View>
                                     <Text className="text-2xl font-bold text-white mt-2">Card of the Day</Text>
-                                    <Text className="text-slate-300 text-sm max-w-[240px]">
-                                        Connect with your intuition. What message does the universe have for you?
+                                    <Text className="text-slate-300 text-sm max-w-[240px]" numberOfLines={3}>
+                                        {dailyCard ? `You drew ${dailyCard.name}. ${dailyCard.keywords}` : "Connect with your intuition. What message does the universe have for you?"}
                                     </Text>
                                 </View>
 
-                                {/* Stylized Card Back Icon */}
-                                <View className="h-16 w-12 rounded bg-slate-700 border border-slate-500/30 shadow-lg flex items-center justify-center" style={{ transform: [{ rotate: '6deg' }] }}>
-                                    <MaterialIcons name="visibility" size={24} color="rgba(148, 163, 184, 0.5)" />
-                                </View>
+                                {/* Stylized Card Image */}
+                                {dailyCard && TarotCardImages[dailyCard.name] ? (
+                                    <View className="h-28 w-20 rounded shadow-lg" style={{ transform: [{ rotate: '6deg' }] }}>
+                                        <Image source={TarotCardImages[dailyCard.name]} className="h-full w-full rounded" resizeMode="cover" />
+                                    </View>
+                                ) : (
+                                    <View className="h-16 w-12 rounded bg-slate-700 border border-slate-500/30 shadow-lg flex items-center justify-center" style={{ transform: [{ rotate: '6deg' }] }}>
+                                        <MaterialIcons name="visibility" size={24} color="rgba(148, 163, 184, 0.5)" />
+                                    </View>
+                                )}
                             </View>
 
                             <TouchableOpacity className="flex-row w-full items-center justify-center gap-2 rounded-xl bg-primary hover:bg-primary-light py-3.5 shadow-lg shadow-primary/20">

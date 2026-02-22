@@ -1,0 +1,1848 @@
+[
+  {
+    "name": "The Fool",
+    "fileName": "00-the-fool.png",
+    "keywords": "New beginnings, innocence, spontaneity, free spirit",
+    "description": "A young traveler stands at the edge of a cliff, gazing upward with optimism. Carrying a small bundle and accompanied by a white dog, The Fool represents the beginning of a journey.",
+    "uprightMeaning": [
+      "New adventures and opportunities",
+      "Taking a leap of faith",
+      "Embracing the unknown with optimism",
+      "Living in the moment",
+      "Innocence and pure potential"
+    ],
+    "reversedMeaning": [
+      "Recklessness and poor judgment",
+      "Holding back from opportunities",
+      "Naivety leading to mistakes",
+      "Fear of the unknown",
+      "Foolish risks without consideration"
+    ],
+    "symbolism": [
+      "White dog: Loyalty and protection",
+      "Cliff edge: Risk and potential",
+      "White rose: Purity",
+      "Mountains: Challenges ahead",
+      "Sun: Enlightenment and optimism"
+    ]
+  },
+  {
+    "name": "The Magician",
+    "fileName": "01-the-magician.png",
+    "keywords": "Manifestation, power, skill, resourcefulness, action",
+    "description": "A robed figure stands before a table with the four suit symbols, one arm raised to the heavens, the other pointing to earth, channeling divine energy into material reality.",
+    "uprightMeaning": [
+      "Manifesting goals and desires",
+      "Having the skills and resources needed",
+      "Taking inspired action",
+      "Power and confidence",
+      "\"As above, so below\" - connecting spiritual and material"
+    ],
+    "reversedMeaning": [
+      "Manipulation and deceit",
+      "Unused potential",
+      "Lack of confidence",
+      "Poor planning",
+      "Trickery and illusion"
+    ],
+    "symbolism": [
+      "Infinity symbol: Unlimited potential",
+      "Four elements on table: Complete mastery of resources",
+      "Raised wand: Channeling divine power",
+      "Red roses and white lilies: Passion and purity",
+      "Ouroboros belt: Eternal cycle of creation"
+    ]
+  },
+  {
+    "name": "The High Priestess",
+    "fileName": "02-high-priestess.png",
+    "keywords": "Intuition, sacred knowledge, divine feminine, subconscious",
+    "description": "A serene woman sits between two pillars marked B and J, holding the scroll of divine law, representing hidden knowledge and intuitive wisdom.",
+    "uprightMeaning": [
+      "Trust your intuition",
+      "Access to hidden knowledge",
+      "Mystery and the unknown",
+      "Divine feminine energy",
+      "Inner wisdom and spiritual insight"
+    ],
+    "reversedMeaning": [
+      "Ignoring intuition",
+      "Secrets and hidden agendas",
+      "Withdrawal and silence",
+      "Repressed feelings",
+      "Lack of spiritual connection"
+    ],
+    "symbolism": [
+      "Two pillars (B and J): Duality, balance",
+      "Scroll (TORA): Divine law and wisdom",
+      "Pomegranates: Fertility and the subconscious",
+      "Crescent moon: Feminine energy and cycles",
+      "Blue robes: Spiritual knowledge"
+    ]
+  },
+  {
+    "name": "The Empress",
+    "fileName": "03-the-empress.png",
+    "keywords": "Abundance, nurturing, fertility, nature, motherhood",
+    "description": "A regal woman sits in a lush garden, wearing a crown of stars, surrounded by abundant nature, embodying the fertile and nurturing aspects of the divine feminine.",
+    "uprightMeaning": [
+      "Abundance and prosperity",
+      "Nurturing and motherhood",
+      "Creativity and artistic expression",
+      "Connection with nature",
+      "Sensuality and beauty"
+    ],
+    "reversedMeaning": [
+      "Creative blocks",
+      "Dependence on others",
+      "Smothering or over-protecting",
+      "Neglecting self-care",
+      "Financial difficulties"
+    ],
+    "symbolism": [
+      "Twelve stars crown: Connection to zodiac and cycles",
+      "Pomegranates: Fertility",
+      "Wheat: Abundance and harvest",
+      "Venus symbol: Love and beauty",
+      "Waterfall: Flowing emotions and creativity"
+    ]
+  },
+  {
+    "name": "The Emperor",
+    "fileName": "04-the-emperor.png",
+    "keywords": "Authority, structure, control, stability, father figure",
+    "description": "A commanding figure sits on a stone throne decorated with rams' heads, holding symbols of power, representing authority, structure, and paternal protection.",
+    "uprightMeaning": [
+      "Leadership and authority",
+      "Structure and stability",
+      "Fatherly protection",
+      "Strategic thinking",
+      "Establishing order and control"
+    ],
+    "reversedMeaning": [
+      "Domination and tyranny",
+      "Rigidity and inflexibility",
+      "Loss of authority",
+      "Lack of discipline",
+      "Abuse of power"
+    ],
+    "symbolism": [
+      "Ram heads: Aries, leadership, assertion",
+      "Ankh scepter: Life and power",
+      "Orb: Dominion over the world",
+      "Red robes: Passion and power",
+      "Barren mountains: Solid foundation, stability"
+    ]
+  },
+  {
+    "name": "The Hierophant",
+    "fileName": "05-the-hierophant.png",
+    "keywords": "Tradition, conformity, institutions, spiritual guidance, belief systems",
+    "description": "A religious figure sits between pillars in a sacred space, wearing a triple crown and holding a triple cross, blessing two acolytes before him.",
+    "uprightMeaning": [
+      "Following tradition and convention",
+      "Seeking spiritual guidance",
+      "Education and learning",
+      "Religious or spiritual beliefs",
+      "Group identification and conformity"
+    ],
+    "reversedMeaning": [
+      "Challenging tradition",
+      "Breaking conventions",
+      "Personal beliefs over doctrine",
+      "Unconventional relationships",
+      "Restriction and conformity"
+    ],
+    "symbolism": [
+      "Triple crown: Religious authority",
+      "Triple cross: Holy trinity",
+      "Two acolytes: Teaching and passing knowledge",
+      "Crossed keys: Access to mysteries",
+      "Two pillars: Gateway to sacred knowledge"
+    ]
+  },
+  {
+    "name": "The Lovers",
+    "fileName": "06-the-lovers.png",
+    "keywords": "Love, harmony, relationships, choices, values alignment",
+    "description": "A man and woman stand in paradise beneath a blessing angel, representing the union of opposites and the power of choice in relationships.",
+    "uprightMeaning": [
+      "Love and harmonious relationships",
+      "Partnership and union",
+      "Important choices aligned with values",
+      "Attraction and desire",
+      "Communication and trust"
+    ],
+    "reversedMeaning": [
+      "Disharmony in relationships",
+      "Imbalance and misalignment",
+      "Poor choices",
+      "Avoiding responsibility",
+      "Self-love issues"
+    ],
+    "symbolism": [
+      "Angel: Divine blessing and guidance",
+      "Tree of Knowledge: Conscious choice",
+      "Tree of Life: Natural abundance",
+      "Serpent: Temptation and awareness",
+      "Mountain: Challenges to overcome together"
+    ]
+  },
+  {
+    "name": "The Chariot",
+    "fileName": "07-the-chariot.png",
+    "keywords": "Willpower, determination, victory, control, success",
+    "description": "A warrior stands in a chariot pulled by two sphinxes (one black, one white), representing mastery over opposing forces through willpower and determination.",
+    "uprightMeaning": [
+      "Success through determination",
+      "Overcoming obstacles",
+      "Self-discipline and control",
+      "Victory and achievement",
+      "Moving forward with confidence"
+    ],
+    "reversedMeaning": [
+      "Lack of direction",
+      "Loss of control",
+      "Aggression and opposition",
+      "Scattered energy",
+      "Defeat or obstacles"
+    ],
+    "symbolism": [
+      "Two sphinxes: Opposing forces under control",
+      "Star crown: Divine guidance",
+      "Black and white: Duality mastered",
+      "City behind: Civilization and order",
+      "Armor: Protection and strength"
+    ]
+  },
+  {
+    "name": "Strength",
+    "fileName": "08-strength.png",
+    "keywords": "Inner strength, courage, compassion, patience, control",
+    "description": "A woman gently closes or opens a lion's jaws, demonstrating that true strength comes from inner courage, compassion, and patience rather than force.",
+    "uprightMeaning": [
+      "Inner strength and courage",
+      "Compassion and patience",
+      "Gentle control and influence",
+      "Overcoming fears",
+      "Self-confidence and resilience"
+    ],
+    "reversedMeaning": [
+      "Self-doubt and insecurity",
+      "Lack of courage",
+      "Raw emotion and anger",
+      "Abuse of power",
+      "Feeling overwhelmed"
+    ],
+    "symbolism": [
+      "Lion: Raw passion and instinct",
+      "Infinity symbol: Unlimited strength",
+      "Gentle touch: Compassion over force",
+      "White robes: Purity of intent",
+      "Flowers: Growth through gentleness"
+    ]
+  },
+  {
+    "name": "The Hermit",
+    "fileName": "09-the-hermit.png",
+    "keywords": "Introspection, solitude, inner guidance, wisdom, soul searching",
+    "description": "An elderly figure stands alone on a mountain peak, holding a lantern containing a six-pointed star, representing the light of inner wisdom found through solitude.",
+    "uprightMeaning": [
+      "Soul-searching and introspection",
+      "Inner guidance and wisdom",
+      "Solitude for spiritual growth",
+      "Seeking truth",
+      "Contemplation and reflection"
+    ],
+    "reversedMeaning": [
+      "Isolation and loneliness",
+      "Withdrawal from others",
+      "Lost your way",
+      "Avoiding self-reflection",
+      "Paranoia or anti-social behavior"
+    ],
+    "symbolism": [
+      "Lantern with star: Inner light and truth",
+      "Mountain peak: Spiritual heights achieved",
+      "Gray robes: Neutrality and wisdom",
+      "Staff: Support on the journey",
+      "Snow: Clarity and purity"
+    ]
+  },
+  {
+    "name": "Wheel of Fortune",
+    "fileName": "10-wheel-of-fortune.png",
+    "keywords": "Cycles, destiny, fate, turning point, change",
+    "description": "A great wheel adorned with mystical symbols turns in the clouds, with four winged creatures at the corners, representing the inevitable cycles of fate and change.",
+    "uprightMeaning": [
+      "Change and cycles",
+      "Good luck and fortune",
+      "Life cycles and destiny",
+      "Turning point",
+      "Movement and progress"
+    ],
+    "reversedMeaning": [
+      "Bad luck",
+      "Resistance to change",
+      "Breaking cycles",
+      "Lack of control",
+      "Setbacks"
+    ],
+    "symbolism": [
+      "Wheel: Cycles of life and destiny",
+      "Four creatures: Four evangelists, four elements",
+      "Sphinx: Riddle of existence",
+      "Anubis ascending: Rise to consciousness",
+      "Serpent descending: Descent into material",
+      "Hebrew letters: YHVH (sacred name)"
+    ]
+  },
+  {
+    "name": "Justice",
+    "fileName": "11-justice.png",
+    "keywords": "Justice, fairness, truth, law, cause and effect",
+    "description": "A crowned figure sits between pillars, holding an upright sword and balanced scales, representing impartial judgment and the law of cause and effect.",
+    "uprightMeaning": [
+      "Fairness and justice",
+      "Truth and clarity",
+      "Cause and effect",
+      "Balanced decisions",
+      "Legal matters and contracts"
+    ],
+    "reversedMeaning": [
+      "Unfairness and bias",
+      "Dishonesty",
+      "Avoiding accountability",
+      "Legal issues",
+      "Imbalance"
+    ],
+    "symbolism": [
+      "Sword: Truth cutting through illusion",
+      "Scales: Balance and impartiality",
+      "Purple cloth: Spiritual wisdom",
+      "Crown: Authority",
+      "Two pillars: Law and structure"
+    ]
+  },
+  {
+    "name": "The Hanged Man",
+    "fileName": "12-hanged-man.png",
+    "keywords": "Surrender, letting go, new perspective, sacrifice, suspension",
+    "description": "A serene figure hangs upside down from a living tree, with a halo around the head, representing voluntary sacrifice and the wisdom gained from seeing things differently.",
+    "uprightMeaning": [
+      "New perspective",
+      "Letting go and surrendering",
+      "Spiritual sacrifice",
+      "Breaking old patterns",
+      "Wisdom through suspension"
+    ],
+    "reversedMeaning": [
+      "Resistance to change",
+      "Stalling and delays",
+      "Needless sacrifice",
+      "Martyrdom",
+      "Inability to let go"
+    ],
+    "symbolism": [
+      "Upside down: New perspective",
+      "Halo: Enlightenment",
+      "Crossed leg: Forming number 4 (stability)",
+      "Living tree: Growth from sacrifice",
+      "Peaceful expression: Willing sacrifice"
+    ]
+  },
+  {
+    "name": "Death",
+    "fileName": "13-death.png",
+    "keywords": "Endings, transformation, transition, change, rebirth",
+    "description": "A skeletal figure in black armor rides a white horse carrying a banner with a white rose, representing inevitable transformation and the death of the old to make way for the new.",
+    "uprightMeaning": [
+      "Major transformation",
+      "Endings leading to beginnings",
+      "Letting go of the past",
+      "Inevitable change",
+      "Rebirth and renewal"
+    ],
+    "reversedMeaning": [
+      "Resistance to change",
+      "Personal transformation",
+      "Fear of beginnings",
+      "Stagnation",
+      "Repeating negative patterns"
+    ],
+    "symbolism": [
+      "Skeleton: Death comes to all, inevitability",
+      "Black armor: Invincibility of death",
+      "White horse: Purity of transformation",
+      "White rose banner: Beauty in endings",
+      "Rising sun: New beginnings after endings"
+    ]
+  },
+  {
+    "name": "Temperance",
+    "fileName": "14-temperance.png",
+    "keywords": "Balance, moderation, patience, harmony, alchemy",
+    "description": "An angelic figure pours liquid between two cups, one foot on land and one in water, representing the alchemical process of finding balance and harmony.",
+    "uprightMeaning": [
+      "Balance and moderation",
+      "Patience and calm",
+      "Finding middle ground",
+      "Healing and harmony",
+      "Successful alchemy of opposites"
+    ],
+    "reversedMeaning": [
+      "Imbalance and excess",
+      "Lack of patience",
+      "Conflicting interests",
+      "Inability to compromise",
+      "Self-indulgence"
+    ],
+    "symbolism": [
+      "Pouring water: Alchemical mixing, balance",
+      "One foot on land, one in water: Balance of elements",
+      "Angel wings: Divine guidance",
+      "Triangle in square: Spiritual in material",
+      "Path to mountains: Spiritual journey",
+      "Irises: Hope and promise"
+    ]
+  },
+  {
+    "name": "The Devil",
+    "fileName": "15-the-devil.png",
+    "keywords": "Bondage, materialism, temptation, attachment, restriction",
+    "description": "A horned devil figure perches above two chained figures who could free themselves, representing self-imposed bondage to material desires and limiting beliefs.",
+    "uprightMeaning": [
+      "Bondage and addiction",
+      "Materialism and attachment",
+      "Feeling trapped",
+      "Temptation and excess",
+      "Unhealthy relationships"
+    ],
+    "reversedMeaning": [
+      "Breaking free from bondage",
+      "Overcoming addiction",
+      "Releasing limiting beliefs",
+      "Regaining control",
+      "Detachment from materialism"
+    ],
+    "symbolism": [
+      "Chains: Self-imposed bondage (loose enough to remove)",
+      "Inverted pentagram: Material over spiritual",
+      "Horns and tails on humans: Becoming like devil",
+      "Bat wings: Creature of night, hidden aspects",
+      "Torch: False light, illusion"
+    ]
+  },
+  {
+    "name": "The Tower",
+    "fileName": "16-the-tower.png",
+    "keywords": "Sudden upheaval, revelation, chaos, awakening, destruction",
+    "description": "Lightning strikes a tower, blowing off its crown and causing figures to fall, representing sudden, disruptive change that destroys false structures to reveal truth.",
+    "uprightMeaning": [
+      "Sudden upheaval and change",
+      "Revelation and awakening",
+      "Destruction of false beliefs",
+      "Chaos leading to growth",
+      "Breaking down to rebuild"
+    ],
+    "reversedMeaning": [
+      "Avoiding disaster",
+      "Fear of change",
+      "Resisting necessary endings",
+      "Delayed upheaval",
+      "Internal transformation"
+    ],
+    "symbolism": [
+      "Lightning bolt: Divine intervention, sudden insight",
+      "Falling crown: Destruction of ego",
+      "Falling figures: Loss of security",
+      "Tower on mountain: False pride and ambition",
+      "Flames: Purification through destruction"
+    ]
+  },
+  {
+    "name": "The Star",
+    "fileName": "17-the-star.png",
+    "keywords": "Hope, inspiration, renewal, serenity, healing",
+    "description": "A serene figure kneels by water, pouring from two jugs under a starlit sky with one large star and seven smaller stars, representing hope, renewal, and spiritual guidance.",
+    "uprightMeaning": [
+      "Hope and inspiration",
+      "Healing and renewal",
+      "Serenity and peace",
+      "Spiritual guidance",
+      "Optimism for the future"
+    ],
+    "reversedMeaning": [
+      "Loss of faith",
+      "Disconnection from spirit",
+      "Despair and pessimism",
+      "Lack of inspiration",
+      "Self-doubt"
+    ],
+    "symbolism": [
+      "Eight-pointed star: Guidance and hope",
+      "Seven smaller stars: Seven chakras",
+      "Two jugs: Conscious and subconscious flowing",
+      "Bird (ibis): Thought and communication",
+      "Nakedness: Vulnerability and authenticity",
+      "Water on land: Nourishing the earth"
+    ]
+  },
+  {
+    "name": "The Moon",
+    "fileName": "18-the-moon.png",
+    "keywords": "Illusion, intuition, subconscious, dreams, mystery",
+    "description": "A full moon with a face overlooks a mysterious landscape with a crayfish emerging from water, a dog and wolf, and a winding path between two towers.",
+    "uprightMeaning": [
+      "Illusion and deception",
+      "Intuition and dreams",
+      "Subconscious fears",
+      "Mystery and uncertainty",
+      "Psychic development"
+    ],
+    "reversedMeaning": [
+      "Releasing fear",
+      "Truth emerging",
+      "Confusion clearing",
+      "Repressed emotions surfacing",
+      "Overcoming illusions"
+    ],
+    "symbolism": [
+      "Moon: Intuition, the subconscious",
+      "Crayfish: Evolution from water (subconscious)",
+      "Dog and wolf: Tamed and wild aspects",
+      "Two towers: Gateway to unknown",
+      "Winding path: Uncertain journey",
+      "Dewdrops: Tears, emotions"
+    ]
+  },
+  {
+    "name": "The Sun",
+    "fileName": "19-the-sun.png",
+    "keywords": "Success, vitality, joy, confidence, enlightenment",
+    "description": "A radiant sun shines down on a child riding a white horse in a garden, representing pure joy, vitality, success, and enlightenment.",
+    "uprightMeaning": [
+      "Success and achievement",
+      "Joy and vitality",
+      "Clarity and truth",
+      "Positive energy",
+      "Enlightenment and awareness"
+    ],
+    "reversedMeaning": [
+      "Temporary depression",
+      "Lack of enthusiasm",
+      "Delayed success",
+      "Excessive optimism",
+      "Unrealistic expectations"
+    ],
+    "symbolism": [
+      "Radiant sun: Life force, consciousness, enlightenment",
+      "Child: Innocence and pure joy",
+      "White horse: Purity and strength",
+      "Sunflowers: Life, fertility, happiness",
+      "Red banner: Vitality and passion",
+      "Walled garden: Safe, contained paradise"
+    ]
+  },
+  {
+    "name": "Judgement",
+    "fileName": "20-judgement.png",
+    "keywords": "Judgment, rebirth, inner calling, absolution, reckoning",
+    "description": "Archangel Gabriel blows a trumpet as figures rise from graves with arms outstretched, representing spiritual awakening, rebirth, and answering a higher calling.",
+    "uprightMeaning": [
+      "Spiritual awakening",
+      "Judgment and decision",
+      "Rebirth and renewal",
+      "Absolution and forgiveness",
+      "Answering a higher calling"
+    ],
+    "reversedMeaning": [
+      "Self-doubt",
+      "Harsh self-judgment",
+      "Ignoring the call",
+      "Inability to forgive",
+      "Fear of change"
+    ],
+    "symbolism": [
+      "Angel Gabriel: Divine messenger",
+      "Trumpet: Call to awakening",
+      "Rising figures: Resurrection, rebirth",
+      "Cross on banner: Spiritual redemption",
+      "Mountains: Achievement of higher consciousness",
+      "Gray figures: All equal before judgment"
+    ]
+  },
+  {
+    "name": "The World",
+    "fileName": "21-the-world.png",
+    "keywords": "Emotions, Love, Relationships, Intuition, Creativity",
+    "description": "A dancing figure draped in cloth, holding wands within a laurel wreath, surrounded by the four corners of creation, representing completion and cosmic consciousness.",
+    "uprightMeaning": [
+      "Completion and achievement",
+      "Fulfillment and wholeness",
+      "Success and recognition",
+      "Travel and expansion",
+      "Cosmic consciousness"
+    ],
+    "reversedMeaning": [
+      "Incomplete work",
+      "Lack of closure",
+      "Seeking external approval",
+      "Short-cuts",
+      "Delays in completion"
+    ],
+    "symbolism": [
+      "Laurel wreath: Victory and completion",
+      "Dancing figure: Joy in achievement",
+      "Two wands: Balance of masculine/feminine",
+      "Four creatures: Four elements, four directions",
+      "Purple cloth: Spiritual wisdom",
+      "Androgynous figure: Wholeness, integration"
+    ]
+  },
+  {
+    "name": "Ace of Cups",
+    "fileName": "ace-of-cups.png",
+    "keywords": "New love, emotional beginning, intuition, spiritual abundance",
+    "description": "A chalice overflows with water, held by a divine hand, with a dove descending, representing new emotional beginnings and spiritual love.",
+    "uprightMeaning": [
+      "New relationship or love",
+      "Emotional awakening",
+      "Creative inspiration",
+      "Spiritual abundance",
+      "Compassion and joy"
+    ],
+    "reversedMeaning": [
+      "Emotional loss",
+      "Blocked creativity",
+      "Emptiness",
+      "Repressed emotions",
+      "Unrequited love"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Two of Cups",
+    "fileName": "two-of-cups.png",
+    "keywords": "Partnership, unity, attraction, connection, mutual respect",
+    "description": "A man and woman exchange cups beneath a caduceus with a winged lion's head, representing harmonious relationships and balanced partnerships.",
+    "uprightMeaning": [
+      "Unified love and partnership",
+      "Mutual attraction",
+      "Balanced relationships",
+      "Harmony and respect",
+      "Commitment and connection"
+    ],
+    "reversedMeaning": [
+      "Broken relationships",
+      "Imbalance",
+      "Miscommunication",
+      "Lack of harmony",
+      "Broken trust"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Three of Cups",
+    "fileName": "three-of-cups.png",
+    "keywords": "Celebration, friendship, community, joy, collaboration",
+    "description": "Three women dance together in celebration, raising cups amid abundant harvest, representing friendship, community, and joyful gatherings.",
+    "uprightMeaning": [
+      "Celebration and festivities",
+      "Friendship and support",
+      "Creative collaboration",
+      "Community and belonging",
+      "Happy reunions"
+    ],
+    "reversedMeaning": [
+      "Overindulgence",
+      "Gossip and drama",
+      "Isolation from friends",
+      "Canceled plans",
+      "Lack of support"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Four of Cups",
+    "fileName": "four-of-cups.png",
+    "keywords": "Apathy, contemplation, reevaluation, meditation, withdrawal",
+    "description": "A figure sits under a tree with folded arms, contemplating three cups while a fourth is offered from a cloud, representing introspection and missed opportunities.",
+    "uprightMeaning": [
+      "Meditation and contemplation",
+      "Reevaluating priorities",
+      "Emotional withdrawal",
+      "Discontent",
+      "Missing opportunities"
+    ],
+    "reversedMeaning": [
+      "Renewed interest",
+      "Overcoming apathy",
+      "Seeing possibilities",
+      "New awareness",
+      "Motivation returning"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Five of Cups",
+    "fileName": "five-of-cups.png",
+    "keywords": "Loss, grief, disappointment, focusing on negative, regret",
+    "description": "A cloaked figure mourns over three spilled cups while two remain standing behind, with a bridge leading home, representing grief but also hope for recovery.",
+    "uprightMeaning": [
+      "Loss and disappointment",
+      "Grief and sadness",
+      "Focusing on the negative",
+      "Regret",
+      "Emotional pain"
+    ],
+    "reversedMeaning": [
+      "Acceptance and moving on",
+      "Finding silver lining",
+      "Forgiveness",
+      "Recovery from loss",
+      "Opening to new possibilities"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Six of Cups",
+    "fileName": "six-of-cups.png",
+    "keywords": "Nostalgia, childhood memories, innocence, reunion, gifts",
+    "description": "Children in a village courtyard exchange cups filled with flowers, representing nostalgia, innocence, and the comfort of happy memories.",
+    "uprightMeaning": [
+      "Nostalgia and memories",
+      "Childhood innocence",
+      "Reunions with old friends",
+      "Gifts from the past",
+      "Simple pleasures"
+    ],
+    "reversedMeaning": [
+      "Living in the past",
+      "Unrealistic expectations",
+      "Leaving home",
+      "Independence",
+      "Letting go of past"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Seven of Cups",
+    "fileName": "seven-of-cups.png",
+    "keywords": "Choices, illusion, fantasy, dreams, wishful thinking",
+    "description": "Seven cups float in clouds, each containing different visions (castle, jewels, dragon, etc.), representing multiple choices and the challenge of discernment.",
+    "uprightMeaning": [
+      "Many options and choices",
+      "Illusion and fantasy",
+      "Wishful thinking",
+      "Imagination",
+      "Confusion about direction"
+    ],
+    "reversedMeaning": [
+      "Clarity and decision",
+      "Dispelling illusions",
+      "Focusing priorities",
+      "Reality check",
+      "Overcoming confusion"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Eight of Cups",
+    "fileName": "eight-of-cups.png",
+    "keywords": "Walking away, withdrawal, seeking meaning, spiritual quest",
+    "description": "A figure walks away from eight stacked cups toward mountains under a crescent moon, representing leaving behind emotional attachments for spiritual growth.",
+    "uprightMeaning": [
+      "Walking away from situation",
+      "Seeking deeper meaning",
+      "Spiritual quest",
+      "Letting go",
+      "Moving on"
+    ],
+    "reversedMeaning": [
+      "Fear of moving on",
+      "Staying in comfort zone",
+      "Avoiding change",
+      "Drifting aimlessly",
+      "Abandoning search"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Nine of Cups",
+    "fileName": "nine-of-cups.png",
+    "keywords": "Contentment, satisfaction, wish fulfillment, happiness, success",
+    "description": "A satisfied figure sits confidently before nine cups arranged in an arc, representing emotional fulfillment and wishes come true.",
+    "uprightMeaning": [
+      "Wishes fulfilled (the \"wish card\")",
+      "Contentment and satisfaction",
+      "Emotional fulfillment",
+      "Success and achievement",
+      "Gratitude and pleasure"
+    ],
+    "reversedMeaning": [
+      "Greed and dissatisfaction",
+      "Materialism",
+      "Overindulgence",
+      "Unfulfilled wishes",
+      "False success"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Ten of Cups",
+    "fileName": "ten-of-cups.png",
+    "keywords": "Family happiness, harmony, fulfillment, lasting love, emotional completion",
+    "description": "A happy family stands together under a rainbow arc of ten cups, with a peaceful home in the background, representing complete emotional fulfillment.",
+    "uprightMeaning": [
+      "Family happiness and harmony",
+      "Lasting relationships",
+      "Emotional fulfillment",
+      "Domestic bliss",
+      "Community support"
+    ],
+    "reversedMeaning": [
+      "Family discord",
+      "Broken relationships",
+      "Misalignment of values",
+      "Unhappy home",
+      "Shattered dreams"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Page of Cups",
+    "fileName": "page-of-cups.png",
+    "keywords": "Creative messages, intuition, curiosity, playfulness, inspiration",
+    "description": "A young figure in whimsical clothing holds a cup from which a fish emerges, gazing at it with wonder, representing creative inspiration and emotional discovery.",
+    "uprightMeaning": [
+      "Creative messages",
+      "Intuitive insights",
+      "Curiosity and wonder",
+      "Artistic inspiration",
+      "Good news in love"
+    ],
+    "reversedMeaning": [
+      "Emotional immaturity",
+      "Creative blocks",
+      "Unrealistic expectations",
+      "Moodiness",
+      "Avoiding inner child"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Knight of Cups",
+    "fileName": "knight-of-cups.png",
+    "keywords": "Romance, charm, idealism, following heart, proposals",
+    "description": "A knight in ornate armor rides a white horse at a gentle pace, offering a cup, representing romantic idealism and emotional offerings.",
+    "uprightMeaning": [
+      "Romantic proposals",
+      "Following your heart",
+      "Charm and creativity",
+      "Idealistic approach",
+      "Emotional action"
+    ],
+    "reversedMeaning": [
+      "Moodiness",
+      "Unrealistic expectations",
+      "Disappointment in love",
+      "Avoiding commitment",
+      "Manipulation"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Queen of Cups",
+    "fileName": "queen-of-cups.png",
+    "keywords": "Emotional maturity, intuition, compassion, nurturing, psychic ability",
+    "description": "A serene queen sits on a throne at water's edge, holding an ornate cup, gazing at it contemplatively, representing emotional depth and intuitive wisdom.",
+    "uprightMeaning": [
+      "Emotional maturity",
+      "Compassion and caring",
+      "Intuitive wisdom",
+      "Nurturing others",
+      "Psychic abilities"
+    ],
+    "reversedMeaning": [
+      "Emotional instability",
+      "Co-dependency",
+      "Martyrdom",
+      "Insecurity",
+      "Lacking boundaries"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "King of Cups",
+    "fileName": "king-of-cups.png",
+    "keywords": "Money, Career, Material World, Security, Practical Matters",
+    "description": "A mature king sits on a throne surrounded by turbulent water, remaining calm while holding a cup and scepter, representing emotional mastery and wisdom.",
+    "uprightMeaning": [
+      "Emotional balance and control",
+      "Diplomatic and wise",
+      "Compassionate leadership",
+      "Calm in crisis",
+      "Mature relationships"
+    ],
+    "reversedMeaning": [
+      "Emotional manipulation",
+      "Moodiness",
+      "Volatility",
+      "Suppressed emotions",
+      "Coldness"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Ace of Pentacles",
+    "fileName": "ace-of-pentacles.png",
+    "keywords": "New financial opportunity, prosperity, manifestation, abundance",
+    "description": "A hand emerges from clouds holding a golden pentacle above a lush garden with a path leading to mountains, representing new material opportunities.",
+    "uprightMeaning": [
+      "New financial opportunity",
+      "Prosperity and abundance",
+      "Manifestation of goals",
+      "New job or business",
+      "Material security"
+    ],
+    "reversedMeaning": [
+      "Lost opportunity",
+      "Financial loss",
+      "Lack of planning",
+      "Greed",
+      "Materialism"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Two of Pentacles",
+    "fileName": "two-of-pentacles.png",
+    "keywords": "Balance, adaptability, time management, juggling priorities",
+    "description": "A figure dances while juggling two pentacles connected by an infinity symbol, with ships riding waves behind, representing balancing multiple responsibilities.",
+    "uprightMeaning": [
+      "Balancing multiple priorities",
+      "Adaptability and flexibility",
+      "Time management",
+      "Juggling finances",
+      "Going with the flow"
+    ],
+    "reversedMeaning": [
+      "Overwhelmed",
+      "Loss of balance",
+      "Poor time management",
+      "Financial stress",
+      "Disorganization"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Three of Pentacles",
+    "fileName": "three-pentacles.png",
+    "keywords": "Collaboration, teamwork, skill, craftsmanship, learning",
+    "description": "Three figures discuss plans in a cathedral, with pentacles carved above, representing collaboration, mastery, and learning through teamwork.",
+    "uprightMeaning": [
+      "Teamwork and collaboration",
+      "Skill development",
+      "Quality work",
+      "Learning and teaching",
+      "Recognition of expertise"
+    ],
+    "reversedMeaning": [
+      "Lack of teamwork",
+      "Poor quality work",
+      "Lack of commitment",
+      "Not using skills",
+      "Working alone"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Four of Pentacles",
+    "fileName": "four-pentacles.png",
+    "keywords": "Holding on, possessiveness, control, security, saving",
+    "description": "A figure clutches a pentacle to their chest with pentacles under feet and on head, appearing rigid and possessive, representing attachment and control.",
+    "uprightMeaning": [
+      "Holding on to possessions",
+      "Financial security",
+      "Control and stability",
+      "Saving money",
+      "Material attachment"
+    ],
+    "reversedMeaning": [
+      "Generosity and letting go",
+      "Over-spending",
+      "Greed",
+      "Insecurity",
+      "Blockages released"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Five of Pentacles",
+    "fileName": "five-pentacles.png",
+    "keywords": "Financial hardship, poverty, isolation, lack, struggle",
+    "description": "Two impoverished figures pass by a lit church window displaying pentacles in the snow, representing hardship but also available help.",
+    "uprightMeaning": [
+      "Financial hardship",
+      "Poverty and lack",
+      "Isolation",
+      "Unemployment",
+      "Feeling left out in the cold"
+    ],
+    "reversedMeaning": [
+      "Recovery from hardship",
+      "Accepting help",
+      "Improvement in finances",
+      "End of isolation",
+      "Spiritual poverty"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Six of Pentacles",
+    "fileName": "six-pentacles.png",
+    "keywords": "Generosity, charity, giving and receiving, sharing, fairness",
+    "description": "A wealthy merchant holds scales while giving coins to beggars, representing generosity, fair exchange, and the balance of giving and receiving.",
+    "uprightMeaning": [
+      "Generosity and charity",
+      "Giving and receiving",
+      "Fair exchange",
+      "Sharing wealth",
+      "Financial support"
+    ],
+    "reversedMeaning": [
+      "Selfishness",
+      "One-sided relationships",
+      "Debt",
+      "Strings attached",
+      "Power imbalance"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Seven of Pentacles",
+    "fileName": "seven-pentacles.png",
+    "keywords": "Patience, perseverance, investment, long-term rewards, assessment",
+    "description": "A gardener leans on a hoe, contemplating pentacles growing on a lush vine, representing patience and assessing long-term investments.",
+    "uprightMeaning": [
+      "Long-term investment",
+      "Patience and perseverance",
+      "Assessing progress",
+      "Sustainable growth",
+      "Hard work paying off"
+    ],
+    "reversedMeaning": [
+      "Impatience",
+      "Lack of progress",
+      "Frustration",
+      "Poor investment",
+      "Abandoned projects"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Eight of Pentacles",
+    "fileName": "eight-pentacles.png",
+    "keywords": "Skill development, hard work, craftsmanship, dedication, apprenticeship",
+    "description": "A craftsperson diligently works on carving a pentacle with completed pentacles displayed, representing mastery through dedication and practice.",
+    "uprightMeaning": [
+      "Hard work and dedication",
+      "Skill development",
+      "Attention to detail",
+      "Mastery through practice",
+      "Career focus"
+    ],
+    "reversedMeaning": [
+      "Lack of focus",
+      "Mediocre work",
+      "Lack of ambition",
+      "Shortcuts",
+      "Unmotivated"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Nine of Pentacles",
+    "fileName": "nine-pentacles.png",
+    "keywords": "Independence, self-sufficiency, luxury, accomplishment, refinement",
+    "description": "An elegant woman in a vineyard estate with a falcon on her gloved hand, surrounded by pentacles, representing self-made success and refinement.",
+    "uprightMeaning": [
+      "Financial independence",
+      "Self-sufficiency",
+      "Luxury and refinement",
+      "Success and accomplishment",
+      "Enjoying rewards"
+    ],
+    "reversedMeaning": [
+      "Financial dependence",
+      "Overwork",
+      "Materialism",
+      "Theft or loss",
+      "Lack of self-worth"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Ten of Pentacles",
+    "fileName": "ten-pentacles.png",
+    "keywords": "Legacy, inheritance, family wealth, tradition, lasting success",
+    "description": "A multi-generational family gathers under an archway with pentacles arranged in a tree-of-life pattern, representing family wealth and legacy.",
+    "uprightMeaning": [
+      "Family wealth and legacy",
+      "Lasting success",
+      "Inheritance",
+      "Tradition and ancestry",
+      "Financial security"
+    ],
+    "reversedMeaning": [
+      "Financial failure",
+      "Family disputes",
+      "Bankruptcy",
+      "Breaking traditions",
+      "Loss of inheritance"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Page of Pentacles",
+    "fileName": "page-pentacles.png",
+    "keywords": "New opportunity, manifestation, ambition, study, practical learning",
+    "description": "A young figure holds up a pentacle, examining it with wonder in a green field, representing new opportunities and practical learning.",
+    "uprightMeaning": [
+      "New financial opportunity",
+      "Manifestation of goals",
+      "Study and education",
+      "Practical skills",
+      "Ambition and planning"
+    ],
+    "reversedMeaning": [
+      "Lack of progress",
+      "Procrastination",
+      "Bad news financially",
+      "Lack of commitment",
+      "Poor planning"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Knight of Pentacles",
+    "fileName": "knight-pentacles.png",
+    "keywords": "Reliability, responsibility, routine, methodical, hard work",
+    "description": "A knight sits motionless on a sturdy horse in a plowed field, carefully holding a pentacle, representing reliability and methodical approach.",
+    "uprightMeaning": [
+      "Reliability and responsibility",
+      "Methodical progress",
+      "Hard work and routine",
+      "Attention to detail",
+      "Conservative approach"
+    ],
+    "reversedMeaning": [
+      "Stubbornness",
+      "Laziness",
+      "Perfectionism",
+      "Workaholic",
+      "Lack of progress"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Queen of Pentacles",
+    "fileName": "queen-pentacles.png",
+    "keywords": "Nurturing, practical, resourceful, down-to-earth, business-minded",
+    "description": "A nurturing queen sits on a throne in nature, holding a pentacle and surrounded by abundance, representing practical nurturing and earthly wisdom.",
+    "uprightMeaning": [
+      "Practical and down-to-earth",
+      "Nurturing and caring",
+      "Financial security",
+      "Business acumen",
+      "Resourcefulness"
+    ],
+    "reversedMeaning": [
+      "Neglecting self or home",
+      "Work-life imbalance",
+      "Materialistic",
+      "Jealousy",
+      "Codependency"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "King of Pentacles",
+    "fileName": "king-pentacles.png",
+    "keywords": "Thoughts, Communication, Conflict, Truth, Intellect",
+    "description": "A prosperous king sits on a throne adorned with bulls and vines, surrounded by abundance, representing material success and business leadership.",
+    "uprightMeaning": [
+      "Wealth and business success",
+      "Financial leadership",
+      "Security and stability",
+      "Abundance and prosperity",
+      "Practical wisdom"
+    ],
+    "reversedMeaning": [
+      "Greed and materialism",
+      "Financial failure",
+      "Corruption",
+      "Stubbornness",
+      "Poor financial decisions"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Ace of Swords",
+    "fileName": "ace-of-swords.png",
+    "keywords": "Mental clarity, breakthrough, truth, new ideas, justice",
+    "description": "A hand emerges from clouds holding an upright sword crowned with laurel and olive branches, representing mental clarity and breakthrough.",
+    "uprightMeaning": [
+      "Mental clarity and insight",
+      "Breakthrough moment",
+      "Truth and justice",
+      "New ideas",
+      "Raw power of mind"
+    ],
+    "reversedMeaning": [
+      "Mental confusion",
+      "Miscommunication",
+      "Clouded judgment",
+      "Injustice",
+      "Harsh words"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Two of Swords",
+    "fileName": "two-of-swords.png",
+    "keywords": "Difficult decisions, stalemate, avoidance, denial, impasse",
+    "description": "A blindfolded figure holds two crossed swords while seated by water under a crescent moon, representing difficult choices and stalemate.",
+    "uprightMeaning": [
+      "Difficult decision",
+      "Stalemate or impasse",
+      "Avoidance",
+      "Information needed",
+      "Weighing options"
+    ],
+    "reversedMeaning": [
+      "Decision made",
+      "Breaking deadlock",
+      "Confusion cleared",
+      "Information revealed",
+      "Overwhelming choices"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Three of Swords",
+    "fileName": "three-of-swords.png",
+    "keywords": "Heartbreak, grief, pain, betrayal, sorrow",
+    "description": "Three swords pierce a heart against a stormy sky with falling rain, representing emotional pain, heartbreak, and difficult truths.",
+    "uprightMeaning": [
+      "Heartbreak and grief",
+      "Emotional pain",
+      "Betrayal",
+      "Sorrow and loss",
+      "Painful truth"
+    ],
+    "reversedMeaning": [
+      "Recovery from heartbreak",
+      "Forgiveness",
+      "Releasing pain",
+      "Optimism returning",
+      "Reconciliation"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Four of Swords",
+    "fileName": "four-of-swords.png",
+    "keywords": "Rest, recovery, contemplation, respite, meditation",
+    "description": "A figure lies in repose in a church with three swords on the wall and one beneath, representing rest, recovery, and peaceful contemplation.",
+    "uprightMeaning": [
+      "Rest and recovery",
+      "Contemplation and meditation",
+      "Taking a break",
+      "Mental peace",
+      "Healing time"
+    ],
+    "reversedMeaning": [
+      "Burnout",
+      "Stagnation",
+      "Restlessness",
+      "Inability to rest",
+      "Return to action"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Five of Swords",
+    "fileName": "five-of-swords.png",
+    "keywords": "Conflict, defeat, winning at all costs, betrayal, hollow victory",
+    "description": "A figure holds swords with a sneering expression while others walk away defeated, representing conflict and the cost of winning.",
+    "uprightMeaning": [
+      "Conflict and disagreement",
+      "Winning at all costs",
+      "Defeat or loss",
+      "Betrayal",
+      "Hollow victory"
+    ],
+    "reversedMeaning": [
+      "Reconciliation",
+      "Making amends",
+      "Past conflicts",
+      "Overcoming defeat",
+      "Choosing battles wisely"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Six of Swords",
+    "fileName": "six-of-swords.png",
+    "keywords": "Transition, moving on, leaving behind, recovery, travel",
+    "description": "A ferryman guides passengers and six swords across water from rough to calm, representing transition to calmer times.",
+    "uprightMeaning": [
+      "Transition and change",
+      "Moving on from difficulty",
+      "Journey to calmer waters",
+      "Recovery and healing",
+      "Letting go of past"
+    ],
+    "reversedMeaning": [
+      "Resistance to change",
+      "Unable to move on",
+      "Delayed transition",
+      "Running away",
+      "Unfinished business"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Seven of Swords",
+    "fileName": "seven-of-swords.png",
+    "keywords": "Deception, trickery, stealth, strategy, getting away with something",
+    "description": "A figure tiptoes away from camp carrying five swords while two remain behind, looking back with a cunning expression, representing stealth and strategy.",
+    "uprightMeaning": [
+      "Deception or theft",
+      "Getting away with something",
+      "Strategic action",
+      "Cunning and trickery",
+      "Avoiding confrontation"
+    ],
+    "reversedMeaning": [
+      "Truth revealed",
+      "Conscience",
+      "Coming clean",
+      "Taking responsibility",
+      "Caught in the act"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Eight of Swords",
+    "fileName": "eight-of-swords.png",
+    "keywords": "Restriction, imprisonment, self-imposed limitations, victim mentality",
+    "description": "A bound and blindfolded figure stands among eight swords in loose formation, representing self-imposed limitations and feeling trapped.",
+    "uprightMeaning": [
+      "Feeling trapped",
+      "Self-imposed limitations",
+      "Victim mentality",
+      "Powerlessness",
+      "Restriction"
+    ],
+    "reversedMeaning": [
+      "Freedom and release",
+      "Overcoming limitations",
+      "New perspective",
+      "Self-empowerment",
+      "Breaking free"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Nine of Swords",
+    "fileName": "nine-of-swords.png",
+    "keywords": "Anxiety, worry, nightmares, fear, mental anguish",
+    "description": "A figure sits up in bed with head in hands as nine swords hang on the wall behind, representing anxiety, nightmares, and mental distress.",
+    "uprightMeaning": [
+      "Anxiety and worry",
+      "Nightmares",
+      "Mental anguish",
+      "Fear and stress",
+      "Overwhelming thoughts"
+    ],
+    "reversedMeaning": [
+      "Recovery from anxiety",
+      "Facing fears",
+      "Seeking help",
+      "Hope returning",
+      "Worst is over"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Ten of Swords",
+    "fileName": "ten-of-swords.png",
+    "keywords": "Rock bottom, painful ending, betrayal, defeat, completion",
+    "description": "A figure lies with ten swords in their back as dawn breaks on the horizon, representing painful endings but also completion and new beginnings.",
+    "uprightMeaning": [
+      "Rock bottom",
+      "Painful ending",
+      "Betrayal",
+      "Defeat",
+      "Can only go up from here"
+    ],
+    "reversedMeaning": [
+      "Recovery and regeneration",
+      "Surviving difficult times",
+      "Avoiding disaster",
+      "Resilience",
+      "Improvement"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Page of Swords",
+    "fileName": "page-of-swords.png",
+    "keywords": "Curiosity, mental energy, vigilance, new ideas, communication",
+    "description": "An alert young figure stands ready with sword raised in windy conditions, representing mental alertness and vigilant communication.",
+    "uprightMeaning": [
+      "Curiosity and inquisitiveness",
+      "Mental energy",
+      "Vigilance and alertness",
+      "New ideas",
+      "Direct communication"
+    ],
+    "reversedMeaning": [
+      "Gossip and rumors",
+      "Lack of planning",
+      "Hurtful words",
+      "Deception",
+      "All talk, no action"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Knight of Swords",
+    "fileName": "knight-of-swords.png",
+    "keywords": "Swift action, ambition, drive, assertiveness, rushing",
+    "description": "A knight charges forward at full speed on a galloping horse with sword raised high, representing swift, decisive action and intellectual pursuit.",
+    "uprightMeaning": [
+      "Swift action",
+      "Ambition and drive",
+      "Assertiveness",
+      "Intellectual pursuit",
+      "Charging ahead"
+    ],
+    "reversedMeaning": [
+      "Impulsiveness",
+      "Scattered energy",
+      "Aggression",
+      "Lack of direction",
+      "All talk, no substance"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Queen of Swords",
+    "fileName": "queen-of-swords.png",
+    "keywords": "Clear thinking, independence, unbiased judgment, direct communication",
+    "description": "A stern queen sits upright holding a sword with one hand extended, representing clear thinking, independence, and unbiased judgment.",
+    "uprightMeaning": [
+      "Clear thinking",
+      "Independent",
+      "Unbiased judgment",
+      "Direct communication",
+      "Intellectual authority"
+    ],
+    "reversedMeaning": [
+      "Cold and bitter",
+      "Harsh judgment",
+      "Lacking empathy",
+      "Vindictive",
+      "Isolated"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "King of Swords",
+    "fileName": "king-of-swords.png",
+    "keywords": "Action, Inspiration, Creativity, Passion, Energy",
+    "description": "A commanding king sits on a throne holding an upright sword, representing intellectual authority, truth, and rational decision-making.",
+    "uprightMeaning": [
+      "Intellectual power",
+      "Authority and judgment",
+      "Truth and ethics",
+      "Clear thinking",
+      "Rational decisions"
+    ],
+    "reversedMeaning": [
+      "Abuse of power",
+      "Manipulative",
+      "Harsh and cruel",
+      "Irrational",
+      "Lack of discipline"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Ace of Wands",
+    "fileName": "ace-of-wands.png",
+    "keywords": "New creative beginning, inspiration, potential, enthusiasm",
+    "description": "A hand emerges from clouds holding a living wand with sprouting leaves above a fertile landscape, representing new creative potential and inspiration.",
+    "uprightMeaning": [
+      "New creative beginning",
+      "Inspiration and enthusiasm",
+      "Growth and potential",
+      "Entrepreneurial spirit",
+      "New opportunity"
+    ],
+    "reversedMeaning": [
+      "Delays and setbacks",
+      "Lack of direction",
+      "Wasted energy",
+      "Lack of passion",
+      "False starts"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Two of Wands",
+    "fileName": "two-of-wands.png",
+    "keywords": "Planning, future vision, decisions, discovery, progress",
+    "description": "A figure stands on a castle wall holding a globe, grasping one wand while another is mounted beside them, representing planning and future vision.",
+    "uprightMeaning": [
+      "Future planning",
+      "Progress and discovery",
+      "Decisions about direction",
+      "Personal power",
+      "Bold vision"
+    ],
+    "reversedMeaning": [
+      "Fear of unknown",
+      "Lack of planning",
+      "Playing it safe",
+      "Bad planning",
+      "Lack of foresight"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Three of Wands",
+    "fileName": "three-of-wands.png",
+    "keywords": "Expansion, foresight, opportunities, exploration, enterprise",
+    "description": "A figure stands on a cliff looking over the ocean with ships sailing, three wands planted firmly, representing expansion and foresight.",
+    "uprightMeaning": [
+      "Expansion and growth",
+      "Foresight and vision",
+      "Opportunities manifesting",
+      "Enterprise",
+      "Looking ahead"
+    ],
+    "reversedMeaning": [
+      "Delays and obstacles",
+      "Lack of foresight",
+      "Unexpected obstacles",
+      "Poor planning",
+      "Frustration"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Four of Wands",
+    "fileName": "four-of-wands.png",
+    "keywords": "Celebration, harmony, homecoming, marriage, community",
+    "description": "Four wands form a festive bower decorated with garlands as figures celebrate, representing joyful celebrations and harmony.",
+    "uprightMeaning": [
+      "Celebration and parties",
+      "Harmony and homecoming",
+      "Marriage or union",
+      "Community gathering",
+      "Happy milestone"
+    ],
+    "reversedMeaning": [
+      "Canceled celebration",
+      "Lack of harmony",
+      "Unstable home life",
+      "Delayed milestone",
+      "Discord"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Five of Wands",
+    "fileName": "five-of-wands.png",
+    "keywords": "Competition, conflict, disagreement, tension, diversity",
+    "description": "Five figures engage in spirited mock battle with wands crossing in all directions, representing competition and diverse opinions.",
+    "uprightMeaning": [
+      "Competition and rivalry",
+      "Conflict and tension",
+      "Disagreement",
+      "Diverse opinions",
+      "Healthy challenge"
+    ],
+    "reversedMeaning": [
+      "Avoiding conflict",
+      "Agreement reached",
+      "Compromise",
+      "Internal conflict",
+      "Reduced competition"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Six of Wands",
+    "fileName": "six-of-wands.png",
+    "keywords": "Victory, success, public recognition, pride, achievement",
+    "description": "A victorious figure on horseback wearing a laurel wreath crown, surrounded by supporters holding wands, representing public recognition and success.",
+    "uprightMeaning": [
+      "Victory and success",
+      "Public recognition",
+      "Achievement",
+      "Pride and confidence",
+      "Leadership"
+    ],
+    "reversedMeaning": [
+      "Lack of recognition",
+      "Private achievement",
+      "Ego and arrogance",
+      "Defeat or setback",
+      "Lack of confidence"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Seven of Wands",
+    "fileName": "seven-of-wands.png",
+    "keywords": "Defense, standing ground, perseverance, courage, protection",
+    "description": "A figure stands on high ground defensively holding one wand against six others thrust upward, representing defending one's position.",
+    "uprightMeaning": [
+      "Standing your ground",
+      "Defense and protection",
+      "Perseverance",
+      "Courage under fire",
+      "Fighting for beliefs"
+    ],
+    "reversedMeaning": [
+      "Giving up",
+      "Overwhelmed",
+      "Avoiding conflict",
+      "Exhaustion",
+      "Admitting defeat"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Eight of Wands",
+    "fileName": "eight-of-wands.png",
+    "keywords": "Swift action, speed, progress, movement, communication",
+    "description": "Eight wands fly rapidly through clear sky over open countryside, representing swift action and rapid progress.",
+    "uprightMeaning": [
+      "Swift action and speed",
+      "Rapid progress",
+      "Movement and travel",
+      "Quick communication",
+      "Things happening fast"
+    ],
+    "reversedMeaning": [
+      "Delays and slowdown",
+      "Rushed decisions",
+      "Lack of progress",
+      "Miscommunication",
+      "Waiting"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Nine of Wands",
+    "fileName": "nine-of-wands.png",
+    "keywords": "Resilience, perseverance, last stand, defensive, nearly there",
+    "description": "A weary, bandaged figure leans on a wand with eight more forming a defensive wall behind, representing resilience and perseverance.",
+    "uprightMeaning": [
+      "Resilience and courage",
+      "Perseverance",
+      "Last stand",
+      "Nearly there",
+      "Defensive position"
+    ],
+    "reversedMeaning": [
+      "Exhaustion",
+      "Giving up",
+      "Paranoia",
+      "Stubbornness",
+      "Dropping defenses"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Ten of Wands",
+    "fileName": "ten-of-wands.png",
+    "keywords": "Burden, responsibility, overwhelm, hard work, completion",
+    "description": "A figure bent under the weight of carrying ten wands toward a distant home, representing burden and the final stretch before completion.",
+    "uprightMeaning": [
+      "Heavy burden",
+      "Responsibility",
+      "Being overwhelmed",
+      "Hard work",
+      "Final stretch"
+    ],
+    "reversedMeaning": [
+      "Releasing burden",
+      "Delegation",
+      "Doing too much",
+      "Collapse under pressure",
+      "Refusing help"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Page of Wands",
+    "fileName": "page-of-wands.png",
+    "keywords": "Enthusiasm, exploration, discovery, good news, excitement",
+    "description": "An enthusiastic young figure examines a sprouting wand in a desert landscape, representing exploration and creative inspiration.",
+    "uprightMeaning": [
+      "Enthusiasm and excitement",
+      "New opportunities",
+      "Exploration and discovery",
+      "Good news",
+      "Creative inspiration"
+    ],
+    "reversedMeaning": [
+      "Lack of direction",
+      "Procrastination",
+      "Bad news",
+      "Lack of enthusiasm",
+      "Setbacks"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Queen of Wands",
+    "fileName": "queen-of-wands.png",
+    "keywords": "Confidence, independence, determination, warmth, vibrancy",
+    "description": "A confident queen sits on a throne decorated with lions and sunflowers, holding a wand and sunflower with a black cat at her feet.",
+    "uprightMeaning": [
+      "Confidence and independence",
+      "Determination",
+      "Warmth and vibrancy",
+      "Charisma",
+      "Inspiring others"
+    ],
+    "reversedMeaning": [
+      "Selfish and demanding",
+      "Jealousy",
+      "Temperamental",
+      "Low confidence",
+      "Manipulation"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "King of Wands",
+    "fileName": "king-of-wands.png",
+    "keywords": "Leadership, vision, charisma, entrepreneurship, boldness",
+    "description": "A commanding king sits on a throne decorated with lions and salamanders, firmly holding a flowering wand, representing bold leadership.",
+    "uprightMeaning": [
+      "Natural leadership",
+      "Vision and inspiration",
+      "Charisma",
+      "Entrepreneurial spirit",
+      "Bold action"
+    ],
+    "reversedMeaning": [
+      "Arrogance and aggression",
+      "Impulsiveness",
+      "Domineering",
+      "Lack of direction",
+      "Ruthlessness"
+    ],
+    "symbolism": []
+  },
+  {
+    "name": "Reading Positions",
+    "fileName": "",
+    "keywords": "",
+    "description": "",
+    "uprightMeaning": [],
+    "reversedMeaning": [],
+    "symbolism": []
+  },
+  {
+    "name": "Interpretation Tips",
+    "fileName": "",
+    "keywords": "",
+    "description": "",
+    "uprightMeaning": [],
+    "reversedMeaning": [],
+    "symbolism": []
+  },
+  {
+    "name": "Elements and Associations",
+    "fileName": "",
+    "keywords": "",
+    "description": "",
+    "uprightMeaning": [],
+    "reversedMeaning": [],
+    "symbolism": []
+  },
+  {
+    "name": "Court Card Personalities",
+    "fileName": "",
+    "keywords": "",
+    "description": "",
+    "uprightMeaning": [],
+    "reversedMeaning": [],
+    "symbolism": []
+  },
+  {
+    "name": "Database Structure Recommendations",
+    "fileName": "",
+    "keywords": "",
+    "description": "",
+    "uprightMeaning": [],
+    "reversedMeaning": [],
+    "symbolism": []
+  },
+  {
+    "name": "Feature Suggestions",
+    "fileName": "",
+    "keywords": "",
+    "description": "",
+    "uprightMeaning": [],
+    "reversedMeaning": [],
+    "symbolism": []
+  },
+  {
+    "name": "Accessibility Considerations",
+    "fileName": "",
+    "keywords": "",
+    "description": "",
+    "uprightMeaning": [],
+    "reversedMeaning": [],
+    "symbolism": []
+  },
+  {
+    "name": "Major Arcana Numbers",
+    "fileName": "",
+    "keywords": "",
+    "description": "",
+    "uprightMeaning": [],
+    "reversedMeaning": [],
+    "symbolism": []
+  },
+  {
+    "name": "Minor Arcana Structure",
+    "fileName": "",
+    "keywords": "",
+    "description": "",
+    "uprightMeaning": [],
+    "reversedMeaning": [],
+    "symbolism": []
+  },
+  {
+    "name": "Quick Suit Meanings",
+    "fileName": "",
+    "keywords": "",
+    "description": "",
+    "uprightMeaning": [],
+    "reversedMeaning": [],
+    "symbolism": []
+  }
+]
