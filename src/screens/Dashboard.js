@@ -228,7 +228,7 @@ export default function Dashboard({ onNavigate }) {
                         <MaterialIcons name="home" size={24} color="#5b13ec" className="text-primary dark:text-white" />
                         <Text className="text-[10px] font-medium text-primary dark:text-white">Home</Text>
                     </TouchableOpacity>
-                    <TouchableOpacity className="flex-1 flex-col items-center justify-center gap-1">
+                    <TouchableOpacity onPress={() => onNavigate && onNavigate('Journal')} className="flex-1 flex-col items-center justify-center gap-1">
                         <MaterialIcons name="menu-book" size={24} color="#64748b" />
                         <Text className="text-[10px] font-medium text-slate-500 dark:text-slate-400">Journal</Text>
                     </TouchableOpacity>
