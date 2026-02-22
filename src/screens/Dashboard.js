@@ -10,7 +10,10 @@ export default function Dashboard() {
                 <View className="flex-row items-center justify-between px-5 pt-4 pb-2">
                     <View className="flex-row items-center gap-2">
                         <MaterialIcons name="auto-awesome" size={28} className="text-primary dark:text-primary-light" color="#5b13ec" />
-                        <Text className="text-xl font-bold tracking-tight text-slate-900 dark:text-white">Tarot Diary</Text>
+                        <View className="flex-col">
+                            <Text className="text-xl font-bold tracking-tight text-slate-900 dark:text-white leading-tight">Tarotins</Text>
+                            <Text className="text-[10px] font-medium text-primary dark:text-primary-light tracking-widest uppercase">Tarot Insights</Text>
+                        </View>
                     </View>
                     <TouchableOpacity className="flex h-10 w-10 items-center justify-center rounded-full bg-slate-200 dark:bg-surface-dark transition-colors">
                         <MaterialIcons name="settings" size={24} color="#64748b" className="text-slate-600 dark:text-slate-400" />
